@@ -1,6 +1,6 @@
 {
   "name": "@cch137/random",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "type": "module",
   "main": "./dist/index.js",
